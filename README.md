@@ -7,7 +7,7 @@ windows内核加密库，支持Base64、AES-256、RSA-2048以及更高、ECC-256
 
 
 <h1 align="center">
-	<img  src="base64.gif" alt="Awesome">
+	<img  src="base64.gif" alt="Awesome-Cryptography">
 	<br>
 	<br>
 </h1>
